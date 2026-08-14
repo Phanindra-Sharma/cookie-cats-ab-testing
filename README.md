@@ -20,6 +20,7 @@ to level 40 affects player retention.
    null result
 
 ## Key Findings
+![Retention by Group](images/retention_by_group.png)
 | Metric | Gate 30 | Gate 40 | p-value | Significant? |
 |---|---|---|---|---|
 | Day-1 Retention | 44.82% | 44.23% | 0.074 | No |
